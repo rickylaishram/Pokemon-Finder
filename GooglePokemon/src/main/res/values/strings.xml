@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GooglePokemon</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="pokemon">
+        <item>Bulbasaur</item>
+        <item>Ivysaur</item>
+        <item>Venusaur</item>
+        <item>Charmander</item>
+        <item>Charmeleon</item>
+        <item>Charizard</item>
+        <item>Squirtle</item>
+        <item>Wartortle</item>
+        <item>Blastoise</item>
+        <item>Pidgey</item>
+        <item>Pikachu</item>
+        <item>Raichu</item>
+        <item>Jigglypuff</item>
+        <item>Meowth</item>
+        <item>Psyduck</item>
+        <item>Gengar</item>
+        <item>Gyarados</item>
+        <item>Lapras</item>
+        <item>Eevee</item>
+        <item>Vaporeon</item>
+        <item>Jolteon</item>
+        <item>Flareon</item>
+        <item>Porygon</item>
+        <item>Snorlax</item>
+        <item>Dragonite</item>
+        <item>Chikorita</item>
+        <item>Bayleef</item>
+        <item>Meganium</item>
+        <item>Cyndaquil</item>
+        <item>Quilava</item>
+        <item>Typhlosion</item>
+        <item>Totodile</item>
+        <item>Croconaw</item>
+        <item>Feraligatr</item>
+        <item>Hoothoot</item>
+        <item>Pichu</item>
+        <item>Togepi</item>
+        <item>Ampharos</item>
+        <item>Marill</item>
+        <item>Sudowoodo</item>
+        <item>Espeon</item>
+        <item>Umbreon</item>
+        <item>Unown</item>
+        <item>Wobbuffet</item>
+        <item>Steelix</item>
+        <item>Scizor</item>
+        <item>Heracross</item>
+        <item>Donphan</item>
+        <item>Militank</item>
+        <item>Tyranitar</item>
+        <item>Treecko</item>
+        <item>Grovyle</item>
+        <item>Sceptile</item>
+        <item>Torchic</item>
+        <item>Combusken</item>
+        <item>Blaziken</item>
+        <item>Mudkip</item>
+        <item>Marshtomp</item>
+        <item>Swampert</item>
+        <item>Beautifly</item>
+        <item>Lotad</item>
+        <item>Taillow</item>
+        <item>Kirlia</item>
+        <item>Sableye</item>
+        <item>Mawile</item>
+        <item>Aggron</item>
+        <item>Plusle</item>
+        <item>Minun</item>
+        <item>Wailord</item>
+        <item>Milotic</item>
+        <item>Kecleon</item>
+        <item>Banette</item>
+        <item>Absol</item>
+        <item>Salamence</item>
+        <item>Metagross</item>
+        <item>Turtwig</item>
+        <item>Grotle</item>
+        <item>Torterra</item>
+        <item>Chimchar</item>
+        <item>Monferno</item>
+        <item>Infernape</item>
+        <item>Piplup</item>
+        <item>Prinplup</item>
+        <item>Emopoleon</item>
+        <item>Staraptor</item>
+        <item>Luxray</item>
+        <item>Combee</item>
+        <item>Pachirisu</item>
+        <item>Buizel</item>
+        <item>Buneary</item>
+        <item>Chatot</item>
+        <item>Spiritomb</item>
+        <item>Garchomp</item>
+        <item>Munchlax</item>
+        <item>Lucario</item>
+        <item>Croagunk</item>
+        <item>Leafeon</item>
+        <item>Glaceon</item>
+        <item>Mamoswine</item>
+        <item>Rotom</item>
+        <item>Snivy</item>
+        <item>Servine</item>
+        <item>Serperior</item>
+        <item>Tepig</item>
+        <item>Pignite</item>
+        <item>Emboar</item>
+        <item>Oshawott</item>
+        <item>Dewott</item>
+        <item>Samurott</item>
+        <item>Munna</item>
+        <item>Pidove</item>
+        <item>Audino</item>
+        <item>Scraggy</item>
+        <item>Confagrigus</item>
+        <item>Zoroark</item>
+        <item>Minccino</item>
+        <item>Deerling</item>
+        <item>Emolga</item>
+        <item>Joltik</item>
+        <item>Ferrothorn</item>
+        <item>Chandelure</item>
+        <item>Haxorus</item>
+        <item>Cubchoo</item>
+        <item>Stunfisk</item>
+        <item>Hydreigon</item>
+        <item>Chespin</item>
+        <item>Quilladin</item>
+        <item>Chesnaught</item>
+        <item>Fennekin</item>
+        <item>Braixen</item>
+        <item>Delphox</item>
+        <item>Froakie</item>
+        <item>Frogadier</item>
+        <item>Greninja</item>
+        <item>Bunnelby</item>
+        <item>Talonflame</item>
+        <item>Gogoat</item>
+        <item>Pancham</item>
+        <item>Meowstic (Male)</item>
+        <item>Meowstic (Female)</item>
+        <item>Aegislash</item>
+        <item>Spirtzee</item>
+        <item>Swirlix</item>
+        <item>Inkay</item>
+        <item>Hepotile</item>
+        <item>Sylveon</item>
+        <item>Dedenne</item>
+        <item>Goodra</item>
+        <item>Pumpkaboo</item>
+        <item>Noivern</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>http://goo.gl/maps/CCAoD</item>
+
+        <item>http://goo.gl/maps/WSnj4</item>
+
+        <item>http://goo.gl/maps/UMLVF</item>
+
+        <item>http://goo.gl/maps/54twl</item>
+
+        <item>http://goo.gl/maps/0hKpB</item>
+
+        <item>http://goo.gl/maps/Z7D8D</item>
+
+        <item>http://goo.gl/maps/RBTiD</item>
+
+        <item>http://goo.gl/maps/bz5Dg</item>
+
+        <item>http://goo.gl/maps/r5faI</item>
+
+        <item>http://goo.gl/maps/aYyQy</item>
+
+        <item>http://goo.gl/maps/opMq6</item>
+
+        <item>http://goo.gl/maps/Dyp1P</item>
+
+        <item>http://goo.gl/maps/mFzLY</item>
+
+        <item>http://goo.gl/maps/ucZ4t</item>
+
+        <item>http://goo.gl/maps/nrjoo</item>
+
+        <item>http://goo.gl/maps/NJ48e</item>
+
+        <item>http://goo.gl/maps/9biVD</item>
+
+        <item>http://goo.gl/maps/FTd0s</item>
+
+        <item>http://goo.gl/maps/a7w4r</item>
+
+        <item>http://goo.gl/maps/UhjYp</item>
+
+        <item>http://goo.gl/maps/WV8cD</item>
+
+        <item> http://goo.gl/maps/hyMCl</item>
+
+        <item>http://goo.gl/maps/d85sN</item>
+
+        <item>http://goo.gl/maps/e6wFX</item>
+
+        <item>http://goo.gl/maps/U7zjA</item>
+
+        <item>http://goo.gl/maps/tfH9v</item>
+
+        <item>http://goo.gl/maps/69m5L</item>
+
+        <item>http://goo.gl/maps/6898M</item>
+
+        <item>http://goo.gl/maps/xAGY0</item>
+
+        <item>http://goo.gl/maps/R8cvq</item>
+
+        <item>http://goo.gl/maps/BQgxP</item>
+
+        <item>http://goo.gl/maps/pxjTs</item>
+
+        <item>http://goo.gl/maps/296jq</item>
+
+        <item>http://goo.gl/maps/T2hpy</item>
+
+        <item>http://goo.gl/maps/pjDsd</item>
+
+        <item>http://goo.gl/maps/8P3Da</item>
+
+        <item>http://goo.gl/maps/bY0R9</item>
+
+        <item>http://goo.gl/maps/n5PKz</item>
+
+        <item>http://goo.gl/maps/SbBAf</item>
+
+        <item>http://goo.gl/maps/Grq1q</item>
+
+        <item>http://goo.gl/maps/eS4zP</item>
+
+        <item>http://goo.gl/maps/O5z9B</item>
+
+        <item>http://goo.gl/maps/qbDA3</item>
+
+        <item>http://goo.gl/maps/TsU1I</item>
+
+        <item>http://goo.gl/maps/OUIWt</item>
+
+        <item>http://goo.gl/maps/e85rF</item>
+
+        <item>http://goo.gl/maps/Fya0e</item>
+
+        <item>http://goo.gl/maps/Sl9T2</item>
+
+        <item> http://goo.gl/maps/b0KTj</item>
+
+        <item>http://goo.gl/maps/kxG2k</item>
+
+        <item>http://goo.gl/maps/akjnG</item>
+
+        <item>http://goo.gl/maps/62mKF</item>
+
+        <item>http://goo.gl/maps/vKaXk</item>
+
+        <item>http://goo.gl/maps/Nb5Jr</item>
+
+        <item>http://goo.gl/maps/bDXzq</item>
+
+        <item>http://goo.gl/maps/FF6BI</item>
+
+        <item>http://goo.gl/maps/kiX2W</item>
+
+        <item>http://goo.gl/maps/vSHTT</item>
+
+        <item>http://goo.gl/maps/2jwim</item>
+
+        <item>http://goo.gl/maps/1HM2R</item>
+
+        <item>http://goo.gl/maps/nnBBN</item>
+
+        <item>http://goo.gl/maps/1Yb7C</item>
+
+        <item>http://goo.gl/maps/azqSp</item>
+
+        <item>http://goo.gl/maps/Ksupq</item>
+
+        <item>http://goo.gl/maps/uSTMD</item>
+
+        <item>http://goo.gl/maps/Jc5US</item>
+
+        <item>http://goo.gl/maps/r4pEb</item>
+
+        <item>http://goo.gl/maps/vLTM4</item>
+
+        <item>http://goo.gl/maps/ZgVnw</item>
+
+        <item>http://goo.gl/maps/VpQy1</item>
+
+        <item>http://goo.gl/maps/f0zWb</item>
+
+        <item>http://goo.gl/maps/piROs</item>
+
+        <item>http://goo.gl/maps/mDalR</item>
+
+        <item>http://goo.gl/maps/w3aCf</item>
+
+        <item>http://goo.gl/maps/evvQ4</item>
+
+        <item>http://goo.gl/maps/Kf8dB</item>
+
+        <item>http://goo.gl/maps/DuxEo</item>
+
+        <item>http://goo.gl/maps/qZBc0</item>
+
+        <item>http://goo.gl/maps/fGz4J</item>
+
+        <item>http://goo.gl/maps/ejaZ1</item>
+
+        <item>http://goo.gl/maps/9Xmk7</item>
+
+        <item>http://goo.gl/maps/nm343</item>
+
+        <item>http://goo.gl/maps/CpU0t</item>
+
+        <item> http://goo.gl/maps/JkJFF</item>
+
+        <item>http://goo.gl/maps/6DIZa</item>
+
+        <item>http://goo.gl/maps/p6wfd</item>
+
+        <item>http://goo.gl/maps/b8pu9</item>
+
+        <item>http://goo.gl/maps/BPXPJ</item>
+
+        <item>http://goo.gl/maps/x3TWg</item>
+
+        <item>http://goo.gl/maps/HJ7jz</item>
+
+        <item>http://goo.gl/maps/QMgxy</item>
+
+        <item>http://goo.gl/maps/47za6</item>
+
+        <item>http://goo.gl/maps/kEjhy</item>
+
+        <item>http://goo.gl/maps/VuYfe</item>
+
+        <item>http://goo.gl/maps/4Z3Io</item>
+
+        <item>http://goo.gl/maps/Bspsq</item>
+
+        <item>http://goo.gl/maps/HcM0r</item>
+
+        <item>http://goo.gl/maps/qLJIt</item>
+
+        <item>http://goo.gl/maps/hBF2l</item>
+
+        <item>http://goo.gl/maps/iImqO</item>
+
+        <item>http://goo.gl/maps/oCLlw</item>
+
+        <item>http://goo.gl/maps/i2MPb</item>
+
+        <item>http://goo.gl/maps/uhDZr</item>
+
+        <item>http://goo.gl/maps/15uBC</item>
+
+        <item>http://goo.gl/maps/dEgZC</item>
+
+        <item>http://goo.gl/maps/PJMAl</item>
+
+        <item>http://goo.gl/maps/crgKh</item>
+
+        <item>http://goo.gl/maps/ZQZLe</item>
+
+        <item>http://goo.gl/maps/FI21g</item>
+
+        <item>http://goo.gl/maps/BGEf2</item>
+
+        <item>http://goo.gl/maps/QAHlS</item>
+
+        <item>http://goo.gl/maps/24XcQ</item>
+
+        <item>http://goo.gl/maps/QNj9p</item>
+
+        <item>http://goo.gl/maps/Ej24p</item>
+
+        <item>http://goo.gl/maps/oAgqO</item>
+
+        <item>http://goo.gl/maps/v6ILa</item>
+
+        <item>http://goo.gl/maps/glChR</item>
+
+        <item>http://goo.gl/maps/nZ9F9</item>
+
+        <item>http://goo.gl/maps/bGZqI</item>
+
+        <item>http://goo.gl/maps/4z8Vp</item>
+
+        <item>http://goo.gl/maps/tHjLB</item>
+
+        <item>http://goo.gl/maps/MohBx</item>
+
+        <item>http://goo.gl/maps/fkWO1</item>
+
+        <item>http://goo.gl/maps/Kq7Vh</item>
+
+        <item>http://goo.gl/maps/BZCtq</item>
+
+        <item>http://goo.gl/maps/ZuWZl</item>
+
+        <item>http://goo.gl/maps/vyZxJ</item>
+
+        <item>http://goo.gl/maps/9JQT6</item>
+
+        <item>http://goo.gl/maps/XjkTw</item>
+
+        <item>http://goo.gl/maps/GFlQJ</item>
+
+        <item>http://goo.gl/maps/IA0Pw</item>
+
+        <item>http://goo.gl/maps/Kh4wb</item>
+
+        <item>http://goo.gl/maps/vrUO2</item>
+
+        <item>http://goo.gl/maps/PkKOx</item>
+
+        <item>http://goo.gl/maps/Xxeol</item>
+
+        <item>http://goo.gl/maps/Xxef9</item>
+
+        <item>http://goo.gl/T8YWtp</item>
+
+        <item>http://goo.gl/maps/bIAtI</item>
+
+        <item>http://goo.gl/maps/NXybA</item>
+
+        <item>http://goo.gl/maps/s2kbU</item>
+
+        <item>http://goo.gl/maps/Eal3O</item>
+
+        <item>http://goo.gl/maps/HNUZ1</item>
+
+        <item>http://goo.gl/maps/znAcJ</item>
+
+        <item>http://goo.gl/maps/89Buc</item>
+
+        <item>http://goo.gl/maps/w1utH</item>
+
+        <item>http://goo.gl/maps/UNjJw</item>
+
+        <item>http://goo.gl/maps/9PH9p</item>
+        <item>http://goo.gl/maps/w1Q5V</item>
+
+        <item>http://goo.gl/maps/z4ggL</item>
+
+        <item>http://goo.gl/maps/sRgR6</item>
+    </string-array>
+
+</resources>
